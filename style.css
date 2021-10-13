@@ -1,0 +1,20 @@
+.page{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid  ;
+}
+
+h1{
+    color: sandybrown;
+    font-style: italic;
+}
+.number{
+    color: red;
+    font-size: x-large;
+}
+
+button{
+    margin: 5%;
+}
